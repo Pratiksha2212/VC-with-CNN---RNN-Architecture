@@ -1,1 +1,2 @@
-# VC-with-CNN---RNN-Architecture
+# VC-with-CNN-RNN-Architecture
+This my repository
